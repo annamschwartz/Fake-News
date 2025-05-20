@@ -1,3 +1,3 @@
 # Fake-News
 
-Model: [https://github.com/annamschwartz/Fake-News-Classifier.git](url)
+Model: [https://huggingface.co/hamzab/roberta-fake-news-classification?text=Some+ninja+attacked+the+White+House](url)
